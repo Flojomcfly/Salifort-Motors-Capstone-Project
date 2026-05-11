@@ -1,6 +1,10 @@
 This is the project folder for a machine learning data analysis project 
 I completed as part of Google's Professional Certificate in Advanced Data Analysis
 
+The goal of the project was to analyze HR data such as employee satisfaction, average monthly work hours,
+salary, tenure, etc. using machine learning to predict which employees would leave or stay and thereby improve stratgies
+for staff retention.
+
 It contains the following files:
 
 1. The Jupyter notebook (Salisfort Motors Capstone Projectv2.ipynb) file that contains the code
